@@ -1,0 +1,23 @@
+{
+  "name": "linode_cicd",
+  "version": "1.0.0",
+  "description": "CICD Pipeline Template for Linode (Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onticinc/linode_cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onticinc/linode_cicd/issues"
+  },
+  "homepage": "https://github.com/onticinc/linode_cicd#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
